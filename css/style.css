@@ -1,0 +1,48 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+.modal-bg {
+    transition: opacity 0.3s ease;
+}
+.modal-content {
+    transition: transform 0.3s ease;
+}
+.card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+.filter-button {
+    transition: background-color 0.2s, color 0.2s;
+}
+.active-filter {
+    background-color: #1e40af; /* dark blue */
+    color: white;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+}
+.inactive-filter {
+    background-color: #e5e7eb; /* gray-200 */
+    color: #374151; /* gray-700 */
+}
+body.modal-open {
+    overflow: hidden;
+}
+/* Styles for the checkbox filter */
+.checkbox-filter-container {
+    position: relative;
+}
+.checkbox-filter-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 50;
+    display: none;
+    width: 320px;
+}
+.checkbox-filter-dropdown.show {
+    display: block;
+}
