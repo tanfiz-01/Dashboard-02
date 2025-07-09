@@ -1,0 +1,2619 @@
+{
+  "species": [
+    {
+      "name": "Ashwagandha",
+      "botanical": "Withania somnifera",
+      "image": "Pictures/ashwagandha.jpg",
+      "sources": [
+        {
+          "name": "Frontiers in Pharmacology",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1049334/full"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Backward",
+      "strength": "Global adaptogen boom; strong pharma & nutraceutical demand.",
+      "products": [
+        "Standardized extracts",
+        "Powders",
+        "Capsules",
+        "Functional food ingredients"
+      ],
+      "justification": "Address massive supply deficit (1500t production vs 7000t demand) by promoting cultivation of high-yielding varieties (Jawahar, Poshita) and forming FPOs for organic certification and collective marketing to meet export quality norms.",
+      "chartData": {
+        "type": "bar",
+        "labels": [
+          "Production (t)",
+          "Demand (t)"
+        ],
+        "values": [
+          1500,
+          7000
+        ],
+        "title": "Ashwagandha: Supply vs. Demand Gap"
+      }
+    },
+    {
+      "name": "Amla",
+      "botanical": "Phyllanthus emblica",
+      "image": "Pictures/amla.jpg",
+      "sources": [
+        {
+          "name": "Intl. Journal of Pharm. Sciences",
+          "url": "https://ijpsr.com/bft-article/a-review-on-phytochemistry-and-pharmacology-of-phyllanthus-emblica/"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Backward",
+      "strength": "High Vitamin-C content; strong demand for immunity & cosmetic products.",
+      "products": [
+        "Juice",
+        "Candy (murabba)",
+        "Powder",
+        "Chyawanprash",
+        "Hair oil"
+      ],
+      "justification": "Establish organized, high-tech orchards (drip irrigation, GAPs) using NHB models to ensure consistent supply of quality fruit for processors. Leverage state schemes (e.g., Haryana's Amla-Moringa project) and form FPOs for grading."
+    },
+    {
+      "name": "Isabgol",
+      "botanical": "Plantago ovata",
+      "image": "Pictures/isabgol.jpg",
+      "sources": [
+        {
+          "name": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/267631113_PHYTOCHEMISTRY_AND_PHARMACOLOGY_OF_PLANTAGO_OVATA_A_NATURAL_SOURCE_OF_LAXATIVE_MEDICINE"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Forward",
+      "strength": "India's global monopoly (98% share); high export demand for dietary fiber.",
+      "products": [
+        "Processed/graded psyllium husk",
+        "Powder",
+        "Capsules"
+      ],
+      "justification": "Cultivation is established. Focus on promoting FPO-led modern processing units (as per KVIC model) with advanced machinery to improve quality, yield, and meet stringent international food safety standards."
+    },
+    {
+      "name": "Senna",
+      "botanical": "Cassia angustifolia",
+      "image": "Pictures/senna.jpg",
+      "sources": [
+        {
+          "name": "Intl. Journal of Pharm. Sciences",
+          "url": "https://www.ijpsjournal.com/article/Phytochemistry+And+Pharmacological+Studies+Of+Cassia+Angustifolia+A+Medicinal+Plant+Review"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Forward",
+      "strength": "Profitable, export-driven crop for natural laxatives (sennosides).",
+      "products": [
+        "Graded leaves/pods",
+        "Standardized extracts",
+        "Herbal teas",
+        "Capsules"
+      ],
+      "justification": "Move farmers up the value chain from raw material suppliers. Promote FPO-owned primary processing (grading, baling) and incentivize investment in extraction units to shift exports from raw leaves to high-value extracts."
+    },
+    {
+      "name": "Guggul & Salai",
+      "botanical": "Commiphora wightii & Boswellia serrata",
+      "image": "Pictures/gugul_salai.jpg",
+      "sources": [
+        {
+          "name": "Indian Journal of Agricultural Research",
+          "url": "https://arccjournals.com/journal/indian-journal-of-agricultural-research/A-6069"
+        },
+        {
+          "name": "IJARBS Review",
+          "url": "https://ijarbs.com/pdfcopy/2021/may2021/ijarbs5.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Backward",
+      "strength": "Surging pharma demand for anti-inflammatory compounds; Guggul is critically endangered.",
+      "products": [
+        "Graded resin",
+        "Standardized extracts (guggulsterones, boswellic acids)"
+      ],
+      "justification": "CRITICAL: Address resource crisis. Mandate and enforce sustainable, non-destructive tapping via training. Massively scale up cultivation of Guggul to shift from wild collection. Organize collectors into FPOs for fair pricing and traceability."
+    },
+    {
+      "name": "Seed Spices",
+      "botanical": "Cumin, Coriander, Fennel, Fenugreek",
+      "image": "Pictures/seed_spices.jpg",
+      "sources": [
+        {
+          "name": "Intl. Journal of Research in Pharm. Sciences",
+          "url": "https://pharmascope.org/ijrps/article/view/2809"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "National production hub; strong export demand; GI potential.",
+      "products": [
+        "Graded seeds",
+        "Powders",
+        "Essential oils",
+        "Oleoresins",
+        "GI-tagged Nagauri Methi"
+      ],
+      "justification": "Backward: Promote disease-resistant varieties from ICAR-NRCSS. Forward: Establish modern, FPO-led spice processing parks to improve quality and reduce losses. Integrated: Pursue GI tagging for branding and premium pricing."
+    },
+    {
+      "name": "Pomegranate",
+      "botanical": "Punica granatum",
+      "image": "Pictures/pomegranate.jpg",
+      "sources": [
+        {
+          "name": "PMC Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3832175/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "High export potential for 'Bhagawa' variety; strong processing demand.",
+      "products": [
+        "Graded fresh fruit",
+        "Ready-to-eat arils",
+        "Juice",
+        "Wine",
+        "Anardana"
+      ],
+      "justification": "Replicate Maharashtra's export success by establishing high-tech orchards of 'Bhagawa' variety with drip irrigation and scientific management, supported by NHM/RKVY schemes. Focus on producing export-quality fruit."
+    },
+    {
+      "name": "Date Palm",
+      "botanical": "Phoenix dactylifera",
+      "image": "Pictures/date_palm.jpg",
+      "sources": [
+        {
+          "name": "IJRAP Review",
+          "url": "https://ijrap.net/admin/php/uploads/1032_pdf.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "Nascent, high-value crop for arid western Rajasthan; import substitution.",
+      "products": [
+        "Fresh dates (doka)",
+        "Dry dates (chhuhara)",
+        "Syrup",
+        "Paste"
+      ],
+      "justification": "Address critical shortage of quality planting material. Scale up supply of tissue-cultured plants (e.g., 'Barhee', 'Medjool') via RKVY subsidies and provide technical support through the Centre of Excellence, Jaisalmer."
+    },
+    {
+      "name": "Ber",
+      "botanical": "Ziziphus mauritiana",
+      "image": "Pictures/ber.jpg",
+      "sources": [
+        {
+          "name": "Journal of Applied Pharm. Science",
+          "url": "https://japsonline.com/admin/php/uploads/2869_pdf.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "Hardy, profitable fruit with established fresh market; processing potential untapped.",
+      "products": [
+        "Dried ber",
+        "Candy",
+        "Powder",
+        "Juice",
+        "RTS beverages"
+      ],
+      "justification": "Strengthen backward linkages by organizing cultivation and forming FPOs to ensure a consistent supply of graded raw material for processing units, which is currently a major constraint."
+    },
+    {
+      "name": "Guar",
+      "botanical": "Cyamopsis tetragonoloba",
+      "image": "Pictures/guar.jpg",
+      "sources": [
+        {
+          "name": "ResearchGate Review",
+          "url": "https://www.researchgate.net/publication/342106658_Cyamopsis_tetragonoloba_L_Taub_A_Phyto-_Pharmacological_Review"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Dominant global supplier (80% share); huge industrial demand from oil/gas sector.",
+      "products": [
+        "Guar gum splits and powder (various grades)"
+      ],
+      "justification": "Cultivation is established. Focus on improving processing efficiency in existing units to produce higher-grade gums and strengthening export logistics and market intelligence via APEDA to maintain global leadership."
+    },
+    {
+      "name": "Jojoba",
+      "botanical": "Simmondsia chinensis",
+      "image": "Pictures/jojoba.jpg",
+      "sources": [
+        {
+          "name": "OnLine Journal of Biological Sciences",
+          "url": "https://thescipub.com/abstract/ojbsci.2025.487.492"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "'Desert Gold' with high-value cosmetic oil potential for wastelands.",
+      "products": [
+        "Liquid wax (Jojoba oil) for the cosmetics industry"
+      ],
+      "justification": "The primary constraint is lack of scale. Aggressively expand plantations through agencies like AJORP, providing quality planting material and support to farmers during the 3-4 year gestation period to achieve critical production mass."
+    },
+    {
+      "name": "Kinnow",
+      "botanical": "Citrus reticulata",
+      "image": "Pictures/kinnow.jpg",
+      "sources": [
+        {
+          "name": "Journal of Pharmacy and Pharmacology",
+          "url": "https://academic.oup.com/jpp/article/73/4/434/6132766"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "High-yield fruit with established fresh market; significant value lost in by-products.",
+      "products": [
+        "Juice",
+        "Concentrates",
+        "Peel-based essential oils",
+        "Fiber-enriched foods from pulp residue"
+      ],
+      "justification": "Focus on by-product valorization. Invest in R&D and technology to create new products from processing waste (peel, pomace), as demonstrated by the CIAB study on fiber-enriched vermicelli, creating new revenue streams."
+    },
+    {
+      "name": "Ker & Sangri",
+      "botanical": "Capparis decidua & Prosopis cineraria",
+      "image": "Pictures/ker_sangri.jpg",
+      "sources": [
+        {
+          "name": "Pharmacognosy Reviews",
+          "url": "https://www.phcogrev.com/article/2012/6/11/10553020126114652"
+        },
+        {
+          "name": "WJPMR Review",
+          "url": "https://www.wjpmr.com/download/article/78022021/1615979153.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Backward",
+      "strength": "Iconic, premium heritage food with growing niche/export demand.",
+      "products": [
+        "Dried/graded Ker-Sangri",
+        "Premium pickles",
+        "Ready-to-cook mixes"
+      ],
+      "justification": "Organize the highly informal wild-collection supply chain. Form collector FPOs/SHGs for systematic collection, primary processing (drying), and grading. Promote Khejri (Sangri) plantation under agroforestry to ensure sustainability."
+    },
+    {
+      "name": "Mahua",
+      "botanical": "Madhuca longifolia",
+      "image": "Pictures/mahua.jpg",
+      "sources": [
+        {
+          "name": "PMC Study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10860734/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Integrated",
+      "strength": "Central to tribal livelihoods; huge potential to shift from liquor to food-grade products.",
+      "products": [
+        "Food-grade dried flowers",
+        "Ladoos",
+        "Jam",
+        "Juice",
+        "Seed oil"
+      ],
+      "justification": "Backward: Introduce scientific, net-based collection to improve quality and fetch 2-4x higher prices. Forward: Support tribal SHGs/FPOs via VDVKs to establish processing units for branded food products."
+    },
+    {
+      "name": "Natural Gums",
+      "botanical": "Gum Arabic, Karaya, Babul",
+      "image": "Pictures/natural_gums.jpg",
+      "sources": [
+        {
+          "name": "Food Hydrocolloids Review",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0268005X2100222X"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Backward",
+      "strength": "Significant resource base; import substitution potential (Gum Arabic); export strength (Karaya).",
+      "products": [
+        "Cleaned/graded raw gum",
+        "Processed powders for food/pharma"
+      ],
+      "justification": "Organize unorganized tribal collectors into FPOs. Provide training on sustainable tapping and scientific grading. Establish transparent, direct procurement centers to eliminate middlemen and ensure fair prices."
+    },
+    {
+      "name": "Henna",
+      "botanical": "Lawsonia inermis",
+      "image": "Pictures/henna.jpg",
+      "sources": [
+        {
+          "name": "ResearchGate Review",
+          "url": "https://www.researchgate.net/publication/221669649_Lawsonia_inermis_Linnaeus_A_Phytopharmacological_Review"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Well-organized export chain with GI tag for Sojat Henna; strong branding.",
+      "products": [
+        "High-quality leaf powder",
+        "Paste",
+        "Hair dyes",
+        "Body art products"
+      ],
+      "justification": "The value chain is already mature with strong forward linkages. The focus should be on sustaining quality, exploring new organic/natural product formulations, and strengthening the GI brand in global markets."
+    },
+    {
+      "name": "Neem",
+      "botanical": "Azadirachta indica",
+      "image": "Pictures/neem.jpg",
+      "sources": [
+        {
+          "name": "Intl. Journal of Unani and Integrative Medicine",
+          "url": "https://www.unanijournal.com/articles/30/2-2-8-302.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Integrated",
+      "strength": "Booming bio-pesticide and cosmetic markets; decentralized processing potential.",
+      "products": [
+        "Neem oil",
+        "Seed cake (fertilizer/pesticide)",
+        "Leaf powder",
+        "Extracts"
+      ],
+      "justification": "Backward: Organize seed collection drives through FPOs/SHGs. Forward: Promote village-level oil expellers and small-scale processing units to capture value locally."
+    },
+    {
+      "name": "Poplar & Eucalyptus",
+      "botanical": "Populus deltoides & Eucalyptus spp.",
+      "image": "Pictures/poplar_eucalyptus.jpg",
+      "sources": [
+        {
+          "name": "USDA",
+          "url": "https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/populus/deltoides.htm"
+        },
+        {
+          "name": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/230218530_Eucalyptus"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Forward",
+      "strength": "Mature farm-industry linkage; quick, high cash returns for farmers.",
+      "products": [
+        "Plywood",
+        "Pulpwood",
+        "Poles",
+        "Veneer"
+      ],
+      "justification": "The backward linkage (farm forestry) is strong. The priority is to maintain and strengthen the forward linkage with plywood/pulp industries, ensure transparent pricing, and explore higher-value uses."
+    },
+    {
+      "name": "Shisham",
+      "botanical": "Dalbergia sissoo",
+      "image": "Pictures/shisham.jpg",
+      "sources": [
+        {
+          "name": "Pharmacognosy Reviews",
+          "url": "https://phcogrev.com/sites/default/files/PharmacognRev-18-36-137.pdf"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "High-demand, premium timber for local furniture industry.",
+      "products": [
+        "Sawn timber",
+        "Furniture",
+        "Handicrafts"
+      ],
+      "justification": "While demand is strong, supply from organized farm woodlots needs strengthening. Promote Shisham plantation under agroforestry systems to create a sustainable, long-term supply for the robust local furniture market."
+    },
+    {
+      "name": "Ajwain",
+      "botanical": "Trachyspermum ammi",
+      "image": "Pictures/ajwain.jpg",
+      "sources": [
+        {
+          "name": "Pharmacognosy Reviews",
+          "url": "https://www.phcogrev.com/article/2011/5/9/1055302011595054"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Essential culinary spice with stable domestic demand and valued for medicinal properties (thymol).",
+      "products": [
+        "Whole seeds",
+        "Essential oil",
+        "Thymol extract"
+      ],
+      "justification": "Leverage stable demand by promoting FPO-led units for cleaning, grading, and packaging. Invest in distillation units to extract high-value essential oil and thymol for the pharmaceutical market."
+    },
+    {
+      "name": "Aloe",
+      "botanical": "Aloe vera",
+      "image": "Pictures/aloe.jpg",
+      "sources": [
+        {
+          "name": "Indian Journal of Dermatology",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763764/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "High demand from cosmetic, food, and pharmaceutical industries; contract farming is well-established.",
+      "products": [
+        "Leaf gel",
+        "Juice",
+        "Cosmetic ingredients",
+        "Powders"
+      ],
+      "justification": "Strengthen existing contract farming models by linking FPOs directly with large-scale processors. Promote investment in advanced processing facilities to produce high-purity gel and extracts for the export market."
+    },
+    {
+      "name": "Barley",
+      "botanical": "Hordeum vulgare L.",
+      "image": "Pictures/barley.jpg",
+      "sources": [
+        {
+          "name": "Directorate of Wheat Development",
+          "url": "https://dwd.dacnet.nic.in/barley-introduction"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Key raw material for the malting and brewing industry; also a nutritious food grain and animal fodder.",
+      "products": [
+        "Malt for brewing",
+        "Beer",
+        "Nutritious flour",
+        "Animal fodder"
+      ],
+      "justification": "Develop strong contract farming links between farmers and breweries/malting companies. Promote cultivation of specific barley varieties preferred by the industry to ensure quality and secure buy-back arrangements."
+    },
+    {
+      "name": "Berseem",
+      "botanical": "Trifolium alexandrinum L.",
+      "image": "Pictures/berseem.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Grassland and Fodder Research Institute",
+          "url": "https://igfri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "Highly nutritious and popular fodder crop, crucial for supporting the dairy and livestock industry.",
+      "products": [
+        "Fresh fodder",
+        "Hay",
+        "Silage"
+      ],
+      "justification": "Promote cultivation among dairy farmers to ensure year-round availability of quality fodder. Support creation of fodder banks and silage-making units at the village level to improve livestock productivity."
+    },
+    {
+      "name": "Brinjal",
+      "botanical": "Solanum melongena L.",
+      "image": "Pictures/brinjal.jpg",
+      "sources": [
+        {
+          "name": "Indian Council of Agricultural Research",
+          "url": "https://icar.org.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "A staple vegetable with high domestic consumption, diverse varieties, and a year-round market.",
+      "products": [
+        "Fresh vegetable",
+        "Pickles",
+        "Ready-to-cook products"
+      ],
+      "justification": "Promote high-yielding and pest-resistant varieties to improve farmer income. Develop local processing for pickles and other value-added products to reduce post-harvest losses."
+    },
+    {
+      "name": "Button Mushroom",
+      "botanical": "Agaricus bisporus",
+      "image": "Pictures/button_mushroom.jpg",
+      "sources": [
+        {
+          "name": "Directorate of Mushroom Research",
+          "url": "https://dmrsolan.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Growing demand in urban markets for fresh and processed forms; suitable for controlled environment farming.",
+      "products": [
+        "Fresh mushrooms",
+        "Canned mushrooms",
+        "Pickles",
+        "Soup powder"
+      ],
+      "justification": "Provide training and subsidies for setting up climate-controlled cultivation units. Establish collection centers with cold chain facilities and connect FPOs to retail chains and processing industries."
+    },
+    {
+      "name": "Cabbage",
+      "botanical": "Brassica oleracea var. capitata L.",
+      "image": "Pictures/cabbage.jpg",
+      "sources": [
+        {
+          "name": "Indian Agricultural Research Institute",
+          "url": "https://www.iari.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A major vegetable with widespread consumption, suitable for processing (e.g., coleslaw, sauerkraut).",
+      "products": [
+        "Fresh cabbage",
+        "Coleslaw",
+        "Sauerkraut",
+        "Dehydrated flakes"
+      ],
+      "justification": "Cultivation is widespread. Focus on connecting farmer groups to the processing and food service industries. Promote investment in minimal processing and packaging units to supply ready-to-use products."
+    },
+    {
+      "name": "Carrot",
+      "botanical": "Daucus carota",
+      "image": "Pictures/carrot.jpg",
+      "sources": [
+        {
+          "name": "Indian Agricultural Research Institute",
+          "url": "https://www.iari.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Popular root vegetable with strong demand for both fresh market and processing (juice, salads).",
+      "products": [
+        "Fresh carrots",
+        "Juice",
+        "Candy (gajar murabba)",
+        "Dehydrated powder"
+      ],
+      "justification": "Focus on establishing producer-processor linkages. Encourage FPOs to set up primary processing units for washing, grading, and packaging for direct retail supply. Promote processing into high-value products like juice and candy."
+    },
+    {
+      "name": "Castor",
+      "botanical": "Ricinus communis L.",
+      "image": "Pictures/castor.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Oilseeds Research",
+          "url": "https://icar-iior.org.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Source of castor oil, a critical industrial lubricant and input for various oleochemical industries.",
+      "products": [
+        "Castor oil (various grades)",
+        "Oil cake (fertilizer)",
+        "Oleochemical derivatives"
+      ],
+      "justification": "Strengthen the link between farmers and the processing industry. Promote investment in modern oil extraction and refining units to produce high-grade oils for both domestic and international industrial markets."
+    },
+    {
+      "name": "Cauliflower",
+      "botanical": "Brassica oleracea var. botrytis L.",
+      "image": "Pictures/cauliflower.jpg",
+      "sources": [
+        {
+          "name": "Indian Agricultural Research Institute",
+          "url": "https://www.iari.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Staple vegetable with high demand; new varieties allow for extended-season cultivation.",
+      "products": [
+        "Fresh cauliflower",
+        "Frozen florets",
+        "Pickles",
+        "Dehydrated products"
+      ],
+      "justification": "Focus on reducing post-harvest losses by improving supply chain efficiency. Promote FPO-led collection and grading centers and link them with the frozen food industry and large retail buyers."
+    },
+    {
+      "name": "Chickpea",
+      "botanical": "Cicer arietinum L.",
+      "image": "Pictures/chickpea.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Pulses Research",
+          "url": "https://iipr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A primary protein source with huge demand for whole grain, split (dal), and flour (besan).",
+      "products": [
+        "Split pulse (chana dal)",
+        "Flour (besan)",
+        "Roasted snacks",
+        "Packaged whole grain"
+      ],
+      "justification": "Production is robust. Focus on value addition by promoting FPO-owned mini-dal mills and flour mills. Develop branding for regional varieties to fetch premium prices in urban markets."
+    },
+    {
+      "name": "Chilli",
+      "botanical": "Capsicum annuum L.",
+      "image": "Pictures/chilli.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Spices Research",
+          "url": "https://spices.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Universal spice with value chains for fresh, dried, and powdered forms; high export potential.",
+      "products": [
+        "Dry red chilli",
+        "Chilli powder",
+        "Chilli flakes",
+        "Oleoresin",
+        "Pickles"
+      ],
+      "justification": "Move up the value chain by promoting investment in drying, powdering, and oleoresin extraction units. Enforce quality standards and traceability to boost exports of processed chilli products."
+    },
+    {
+      "name": "Chrysanthemum",
+      "botanical": "Chrysanthemum spp.",
+      "image": "Pictures/chrysanthemum.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Floricultural Research",
+          "url": "https://dfr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "High demand for cut flowers and loose flowers in festive seasons, event decorations, and religious offerings.",
+      "products": [
+        "Cut flowers",
+        "Loose flowers",
+        "Garlands"
+      ],
+      "justification": "Backward: Promote cultivation of high-demand varieties with longer vase life. Forward: Establish cold chain infrastructure and connect growers directly to urban markets, event managers, and exporters to reduce intermediaries."
+    },
+    {
+      "name": "Citrus",
+      "botanical": "Citrus spp.",
+      "image": "Pictures/citrus.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Central Citrus Research Institute",
+          "url": "https://ccri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Strong market for fresh fruit (Kinnow, Lime) and for processing into juice, squash, and pickles.",
+      "products": [
+        "Fresh fruit",
+        "Juice & concentrate",
+        "Squash",
+        "Pickles",
+        "Peel oil"
+      ],
+      "justification": "Focus on reducing post-harvest losses and value addition. Support the establishment of FPO-led juice and squash production units to utilize B-grade fruit, enhancing overall farm profitability."
+    },
+    {
+      "name": "Coriander",
+      "botanical": "Coriandrum sativum L.",
+      "image": "Pictures/coriander.jpg",
+      "sources": [
+        {
+          "name": "ICAR-NRC on Seed Spices",
+          "url": "https://nrcss.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Dual-purpose crop; leaves are a popular fresh herb, and seeds are an essential spice.",
+      "products": [
+        "Seed powder",
+        "Split seeds (dal)",
+        "Essential oil",
+        "Oleoresin"
+      ],
+      "justification": "Focus on value addition for seeds. Promote modern, FPO-led spice processing units for cleaning, grading, powdering, and packaging to meet quality standards of domestic and export markets."
+    },
+    {
+      "name": "Cotton",
+      "botanical": "Gossypium hirsutum L.",
+      "image": "Pictures/cotton.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Central Institute for Cotton Research",
+          "url": "https://cicr.org.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Forward",
+      "strength": "Backbone of the textile industry; cottonseed is also processed for oil and animal feed.",
+      "products": [
+        "Cotton lint",
+        "Cottonseed oil",
+        "Seed cake (animal feed)",
+        "Yarn"
+      ],
+      "justification": "The linkage to ginning mills is established. Focus on improving lint quality through better farm practices and promoting local value addition by linking ginning units to spinning mills and cottonseed oil processors."
+    },
+    {
+      "name": "Cucumber",
+      "botanical": "Cucumis sativus L.",
+      "image": "Pictures/cucumber.jpg",
+      "sources": [
+        {
+          "name": "Indian Agricultural Research Institute",
+          "url": "https://www.iari.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Popular salad vegetable with growing demand from the food service industry; suitable for protected cultivation.",
+      "products": [
+        "Fresh cucumber",
+        "Pickled gherkins",
+        "Salad packs"
+      ],
+      "justification": "Backward: Promote protected cultivation (polyhouses) to ensure year-round supply and better quality. Forward: Link producers with hotel/restaurant chains and promote small-scale gherkin pickling units."
+    },
+    {
+      "name": "Cumin",
+      "botanical": "Cuminum cyminum L.",
+      "image": "Pictures/cumin.jpg",
+      "sources": [
+        {
+          "name": "ICAR-NRC on Seed Spices",
+          "url": "https://nrcss.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A major seed spice with very high domestic and export demand, especially from Rajasthan.",
+      "products": [
+        "Whole seeds",
+        "Powder",
+        "Essential oil",
+        "Oleoresin"
+      ],
+      "justification": "Focus on quality improvement and branding. Promote FPO-led processing units for machine cleaning, grading, and packaging to reduce aflatoxin contamination and meet stringent export norms."
+    },
+    {
+      "name": "Dhaman Grass",
+      "botanical": "Cenchrus ciliaris L.",
+      "image": "Pictures/dhaman_grass.jpg",
+      "sources": [
+        {
+          "name": "Central Arid Zone Research Institute",
+          "url": "https://cazri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "A key pasture grass for arid regions, essential for livestock sustainability and soil conservation.",
+      "products": [
+        "Pasture development",
+        "Hay bales",
+        "Seeds for propagation"
+      ],
+      "justification": "Promote large-scale cultivation on community and private lands to combat desertification and support the livestock economy. Develop a seed supply chain to ensure availability of quality seeds for farmers."
+    },
+    {
+      "name": "Dill",
+      "botanical": "Anethum graveolens L.",
+      "image": "Pictures/dill.jpg",
+      "sources": [
+        {
+          "name": "ICAR-NRC on Seed Spices",
+          "url": "https://nrcss.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Niche spice with demand in food processing for flavoring and medicinal applications.",
+      "products": [
+        "Dried leaves (dill weed)",
+        "Seeds",
+        "Essential oil"
+      ],
+      "justification": "Develop contract farming models with food processing companies that use dill for flavoring. Promote distillation units to extract essential oil, which has a concentrated market."
+    },
+    {
+      "name": "Fennel",
+      "botanical": "Foeniculum vulgare Mill.",
+      "image": "Pictures/fennel.jpg",
+      "sources": [
+        {
+          "name": "ICAR-NRC on Seed Spices",
+          "url": "https://nrcss.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Widely used as a mouth-freshener and culinary spice; has significant export potential.",
+      "products": [
+        "Graded seeds",
+        "Powder",
+        "Coated saunf (mouth freshener)",
+        "Essential oil"
+      ],
+      "justification": "Focus on processing and packaging. Promote FPO-led units for producing high-quality, value-added products like coated saunf, blended mouth fresheners, and packaged powders for retail and export."
+    },
+    {
+      "name": "Fenugreek",
+      "botanical": "Trigonella foenum-graecum L.",
+      "image": "Pictures/fenugreek.jpg",
+      "sources": [
+        {
+          "name": "ICAR-NRC on Seed Spices",
+          "url": "https://nrcss.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Dual-use crop: leaves as a popular vegetable and seeds as a key spice with health benefits.",
+      "products": [
+        "Dried leaves (kasuri methi)",
+        "Seeds",
+        "Powder",
+        "Extracts for supplements"
+      ],
+      "justification": "Backward: Promote varieties with higher leaf yield and quality. Forward: Focus on branding and packaging of 'Nagauri methi' (GI potential) and establish units for dehydration of leaves (kasuri methi) and seed processing."
+    },
+    {
+      "name": "Garlic",
+      "botanical": "Allium sativum L.",
+      "image": "Pictures/garlic.jpg",
+      "sources": [
+        {
+          "name": "National Horticultural Research and Development Foundation",
+          "url": "https://nhrdf.com/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Essential culinary ingredient with strong demand for fresh bulbs and processed paste/powder.",
+      "products": [
+        "Garlic paste",
+        "Powder",
+        "Flakes",
+        "Pickles",
+        "Peeled cloves"
+      ],
+      "justification": "Production is established. Focus on value addition to absorb market surplus and reduce price volatility. Promote small-scale processing units for paste, powder, and peeled cloves to supply to institutional buyers."
+    },
+    {
+      "name": "Ginger",
+      "botanical": "Zingiber officinale Roscoe",
+      "image": "Pictures/ginger.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Spices Research",
+          "url": "https://spices.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Key spice with high demand in fresh and dried forms for culinary and medicinal uses.",
+      "products": [
+        "Dry ginger (sonth)",
+        "Powder",
+        "Paste",
+        "Oleoresin",
+        "Candy"
+      ],
+      "justification": "Focus on processing to increase shelf life and value. Support FPOs in setting up primary processing units for cleaning, drying (sonth), and powdering. Link them to oleoresin extractors and food companies."
+    },
+    {
+      "name": "Gladiolus",
+      "botanical": "Gladiolus spp.",
+      "image": "Pictures/gladiolus.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Floricultural Research",
+          "url": "https://dfr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Popular cut flower with high demand for bouquets and floral arrangements in urban markets.",
+      "products": [
+        "Cut flower spikes",
+        "Bouquets"
+      ],
+      "justification": "Backward: Introduce new varieties with diverse colors and better spike quality. Forward: Improve post-harvest handling with cold chain and establish direct market linkages between growers' collectives and florists in Delhi NCR."
+    },
+    {
+      "name": "Gourds",
+      "botanical": "Lagenaria siceraria, etc.",
+      "image": "Pictures/gourds.jpg",
+      "sources": [
+        {
+          "name": "Indian Institute of Vegetable Research",
+          "url": "https://iivr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "A diverse group of staple vegetables (bottle, bitter gourd) with consistent, high domestic consumption.",
+      "products": [
+        "Fresh vegetables",
+        "Juice (bitter gourd)",
+        "Dehydrated slices",
+        "Ready-to-cook mixes"
+      ],
+      "justification": "Improve supply chain to reduce wastage. Promote off-season cultivation under low tunnels. Encourage processing of surplus produce into value-added products like juice and dehydrated slices."
+    },
+    {
+      "name": "Grapes",
+      "botanical": "Vitis vinifera L.",
+      "image": "Pictures/grapes.jpg",
+      "sources": [
+        {
+          "name": "ICAR-National Research Centre for Grapes",
+          "url": "https://nrcgrapes.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "High-value fruit crop with demand for table consumption and potential for wine production.",
+      "products": [
+        "Table grapes",
+        "Raisins",
+        "Juice",
+        "Wine"
+      ],
+      "justification": "Expand cultivation area under suitable varieties. Provide technical support and subsidies for establishing modern vineyards with drip irrigation and trellising systems to produce high-quality table and wine grapes."
+    },
+    {
+      "name": "Groundnut",
+      "botanical": "Arachis hypogaea L.",
+      "image": "Pictures/groundnut.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Groundnut Research",
+          "url": "https://dgr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Important oilseed crop; also has a large market for direct consumption (snacks) and food processing.",
+      "products": [
+        "Edible oil",
+        "Oil cake",
+        "Roasted peanuts",
+        "Peanut butter"
+      ],
+      "justification": "Backward: Promote high-yield and high-oleic acid varieties. Forward: Support FPO-led integrated units that perform shelling, oil extraction, and production of snacks, ensuring better returns from the entire produce."
+    },
+    {
+      "name": "Guava",
+      "botanical": "Psidium guajava L.",
+      "image": "Pictures/guava.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Central Institute for Subtropical Horticulture",
+          "url": "https://cish.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "Popular fruit with high demand for fresh consumption and processing into juice, jelly, and pulp.",
+      "products": [
+        "Fresh fruit",
+        "Pulp",
+        "Jelly",
+        "Juice",
+        "Guava cheese"
+      ],
+      "justification": "Strengthen the raw material base by promoting high-density planting of improved varieties (e.g., Hisar Safeda, Shweta). Organize growers into clusters to ensure a consistent supply of quality fruit for processing."
+    },
+    {
+      "name": "Lentil",
+      "botanical": "Lens culinaris Medik.",
+      "image": "Pictures/lentil.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Pulses Research",
+          "url": "https://iipr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "An important dietary pulse (dal) with consistent domestic demand.",
+      "products": [
+        "Split pulse (masoor dal)",
+        "Whole lentil",
+        "Flour"
+      ],
+      "justification": "Focus on branding and packaging. Promote FPO-run mini-dal mills to enable primary processing, quality control, and direct marketing to consumers, thereby capturing more value."
+    },
+    {
+      "name": "Litchi",
+      "botanical": "Litchi chinensis Sonn.",
+      "image": "Pictures/litchi.jpg",
+      "sources": [
+        {
+          "name": "ICAR-National Research Centre on Litchi",
+          "url": "https://nrclitchi.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "A premium, seasonal fruit with high consumer demand and potential for processing into juice and squash.",
+      "products": [
+        "Fresh fruit",
+        "Juice",
+        "Squash",
+        "Pulp"
+      ],
+      "justification": "Backward: Promote cultivation in suitable micro-climates with technical support. Forward: Develop post-harvest management with pre-cooling and packaging to extend shelf life. Link growers to processing units to utilize the short-season harvest effectively."
+    },
+    {
+      "name": "Lucerne / Alfalfa",
+      "botanical": "Medicago sativa L.",
+      "image": "Pictures/lucerne_alfalfa.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Grassland and Fodder Research Institute",
+          "url": "https://igfri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "A highly palatable and nutritious fodder crop, especially for high-yielding dairy animals.",
+      "products": [
+        "Fresh fodder",
+        "Hay cubes/pellets",
+        "Silage"
+      ],
+      "justification": "Promote cultivation in dairy-intensive clusters. Support investment in hay-making and pelletizing units to create a commercial market for surplus fodder, ensuring year-round availability for dairy farmers."
+    },
+    {
+      "name": "Maize / Corn",
+      "botanical": "Zea mays L.",
+      "image": "Pictures/maize_corn.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Maize Research",
+          "url": "https://iimr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Versatile crop used for food, poultry feed, cattle feed, and industrial starch production.",
+      "products": [
+        "Poultry/cattle feed",
+        "Corn starch",
+        "Corn oil",
+        "Popcorn",
+        "Sweet corn"
+      ],
+      "justification": "Strengthen linkages with key user industries. Promote contract farming between FPOs and poultry feed or starch manufacturers to ensure assured off-take and better price realization for farmers."
+    },
+    {
+      "name": "Marigold",
+      "botanical": "Tagetes spp.",
+      "image": "Pictures/marigold.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Floricultural Research",
+          "url": "https://dfr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Very high demand for loose flowers for religious ceremonies, festivals, and decorations; also used for pigments.",
+      "products": [
+        "Loose flowers",
+        "Garlands",
+        "Lutein extract (pigment)"
+      ],
+      "justification": "Backward: Promote hybrid varieties with higher yields and longer bloom periods. Forward: Organize growers' clusters for collective marketing to urban centers. Explore investment in units for extracting lutein pigment for the poultry feed and pharma industry."
+    },
+    {
+      "name": "Melons",
+      "botanical": "Cucumis melo L., etc.",
+      "image": "Pictures/melons.jpg",
+      "sources": [
+        {
+          "name": "Indian Institute of Vegetable Research",
+          "url": "https://iivr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "High-demand summer fruit (muskmelon, watermelon) with a short cultivation cycle and good returns.",
+      "products": [
+        "Fresh fruit",
+        "Juice",
+        "Seeds (as snack/oil source)"
+      ],
+      "justification": "Improve post-harvest logistics to reduce damage and extend market reach. Promote on-farm collection and grading centers. Explore value addition of seeds, which are often discarded."
+    },
+    {
+      "name": "Moth Bean",
+      "botanical": "Vigna aconitifolia",
+      "image": "Pictures/moth_bean.jpg",
+      "sources": [
+        {
+          "name": "Central Arid Zone Research Institute",
+          "url": "https://cazri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Drought-resistant pulse crop, important for food security in arid zones; used for dal and snacks.",
+      "products": [
+        "Split pulse (dal)",
+        "Flour",
+        "Snacks (bhujia)"
+      ],
+      "justification": "Backward: Promote improved, short-duration varieties to maximize yield in rainfed conditions. Forward: Link FPOs with snack food manufacturers in Bikaner, a major consumption hub for moth bean."
+    },
+    {
+      "name": "Mulberry",
+      "botanical": "Morus alba",
+      "image": "Pictures/mulberry.jpg",
+      "sources": [
+        {
+          "name": "Central Sericultural Research & Training Institute",
+          "url": "https://www.csrtimys.res.in/"
+        }
+      ],
+      "states": [
+        "Delhi",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "Scope to expand tasar silk & gourmet berry products via farmer clusters.",
+      "products": [
+        "Silkworm rearing (sericulture)",
+        "Fresh berries",
+        "Jam",
+        "Squash"
+      ],
+      "justification": "The primary challenge is establishing the sericulture practice. Promote mulberry plantation on farm boundaries and wastelands and provide comprehensive training and support for silkworm rearing to create a new livelihood source."
+    },
+    {
+      "name": "Mung bean",
+      "botanical": "Vigna radiata",
+      "image": "Pictures/mung_bean.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Pulses Research",
+          "url": "https://iipr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A short-duration pulse crop with high demand, consumed as whole, split (dal), or sprouts.",
+      "products": [
+        "Split pulse (moong dal)",
+        "Packaged whole grain",
+        "Sprouts",
+        "Flour"
+      ],
+      "justification": "Focus on post-harvest value addition. Promote FPO-owned mini-dal mills and support enterprises for producing and marketing packaged sprouts for urban health-conscious consumers."
+    },
+    {
+      "name": "Nigella / Kalonji",
+      "botanical": "Nigella sativa L.",
+      "image": "Pictures/nigella_kalonji.jpg",
+      "sources": [
+        {
+          "name": "Journal of Pharmacopuncture",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3642442/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Niche spice with growing recognition for its culinary and medicinal (immunostimulant) properties.",
+      "products": [
+        "Whole seeds",
+        "Seed oil (cold-pressed)",
+        "Capsules"
+      ],
+      "justification": "Promote cultivation through farmer groups with buy-back arrangements. Support investment in cold-press oil extraction units and encapsulation facilities to tap into the high-value wellness market."
+    },
+    {
+      "name": "Okra",
+      "botanical": "Abelmoschus esculentus",
+      "image": "Pictures/okra.jpg",
+      "sources": [
+        {
+          "name": "Indian Institute of Vegetable Research",
+          "url": "https://iivr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "One of the most popular vegetables in India with consistent year-round domestic demand.",
+      "products": [
+        "Fresh vegetable",
+        "Dehydrated okra",
+        "Frozen cut okra",
+        "Crispy fried snacks"
+      ],
+      "justification": "Backward: Promote yellow vein mosaic virus-resistant varieties. Forward: Focus on exports of fresh and processed okra. Support FPOs in setting up dehydration and freezing units to cater to international markets."
+    },
+    {
+      "name": "Onion",
+      "botanical": "Allium cepa L.",
+      "image": "Pictures/onion.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Onion and Garlic Research",
+          "url": "https://dogr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A fundamental culinary ingredient with massive domestic demand and significant export market.",
+      "products": [
+        "Dehydrated flakes/powder",
+        "Paste",
+        "Fried onion",
+        "Pickled onion"
+      ],
+      "justification": "Address extreme price volatility through processing. Promote investment in dehydration plants to process surplus production, creating a buffer stock and ensuring stable farmer incomes."
+    },
+    {
+      "name": "Oyster Mushroom",
+      "botanical": "Pleurotus spp.",
+      "image": "Pictures/oyster_mushroom.jpg",
+      "sources": [
+        {
+          "name": "Directorate of Mushroom Research",
+          "url": "https://dmrsolan.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "Easier to cultivate than button mushrooms with growing demand in health-conscious consumer segments.",
+      "products": [
+        "Fresh mushrooms",
+        "Dried mushrooms",
+        "Value-added snacks",
+        "Mushroom powder"
+      ],
+      "justification": "Promote low-cost cultivation among small farmers and women SHGs using agricultural waste. Provide training, spawn, and create local collection centers to link producers to urban markets."
+    },
+    {
+      "name": "Papaya",
+      "botanical": "Carica papaya L.",
+      "image": "Pictures/papaya.jpg",
+      "sources": [
+        {
+          "name": "National Horticulture Board",
+          "url": "https://nhb.gov.in/"
+        }
+      ],
+      "states": [
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Popular fruit grown for table purpose; papain enzyme extracted from raw fruit has industrial uses.",
+      "products": [
+        "Table fruit",
+        "Tutti-frutti (from raw fruit)",
+        "Papain enzyme",
+        "Juice"
+      ],
+      "justification": "Develop a dual-purpose value chain. Link farmers growing specific varieties to industries that extract papain from latex, while the mature fruit is sold in the table market, thus maximizing returns."
+    },
+    {
+      "name": "Pea",
+      "botanical": "Pisum sativum",
+      "image": "Pictures/pea.jpg",
+      "sources": [
+        {
+          "name": "Indian Institute of Vegetable Research",
+          "url": "https://iivr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Major winter vegetable with strong demand for fresh pods and for the frozen peas industry.",
+      "products": [
+        "Frozen peas",
+        "Fresh pods",
+        "Dried peas (dal)",
+        "Canned peas"
+      ],
+      "justification": "Strengthen the linkage with the processing industry. Promote FPO-led aggregation and primary shelling units to supply raw material directly to large frozen pea manufacturers, ensuring better prices and reduced spoilage."
+    },
+    {
+      "name": "Pearl Millet / Bajra",
+      "botanical": "Pennisetum glaucum",
+      "image": "Pictures/pearl_millet_bajra.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Millets Research",
+          "url": "https://millets.icar.gov.in/bajra.php"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Staple food grain in arid regions, valued for its drought resistance and nutritional benefits.",
+      "products": [
+        "Flour (atta)",
+        "Grain for direct consumption",
+        "Fortified health foods",
+        "Fodder"
+      ],
+      "justification": "Promote high-yield, bio-fortified varieties. Support FPOs in developing branded flours and millet-based ready-to-eat products to capture higher value, leveraging its 'smart food' status."
+    },
+    {
+      "name": "Potato",
+      "botanical": "Solanum tuberosum L.",
+      "image": "Pictures/potato.jpg",
+      "sources": [
+        {
+          "name": "Central Potato Research Institute",
+          "url": "https://cpri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Huge demand from households, food services, and processing industry (chips, fries).",
+      "products": [
+        "Table potatoes",
+        "Frozen french fries",
+        "Potato chips",
+        "Starch"
+      ],
+      "justification": "Address post-harvest losses by investing in modern cold storage infrastructure. Promote FPO-led enterprises for primary processing and facilitate direct linkages with large-scale processors."
+    },
+    {
+      "name": "Radish",
+      "botanical": "Raphanus sativus L.",
+      "image": "Pictures/radish.jpg",
+      "sources": [
+        {
+          "name": "Indian Agricultural Research Institute",
+          "url": "https://www.iari.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Fast-growing root vegetable popular in salads and culinary preparations.",
+      "products": [
+        "Fresh radish",
+        "Pickles",
+        "Salad packs"
+      ],
+      "justification": "Promote cultivation of varieties suitable for salad-making. Encourage farmer groups to engage in minimal processing (washing, cutting, packaging) for direct supply to food service companies."
+    },
+    {
+      "name": "Rapeseed & Mustard",
+      "botanical": "Brassica napus L. / B. juncea",
+      "image": "Pictures/rapeseed_and_mustard.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Rapeseed-Mustard Research",
+          "url": "https://drmr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Primary source of edible oil in North India; oil cake is a valuable animal feed.",
+      "products": [
+        "Edible oil (mustard oil)",
+        "Oil cake (animal feed)",
+        "Condiment paste"
+      ],
+      "justification": "Promote FPO-owned small-scale oil expellers to enable local value addition. Support branding and marketing of cold-pressed, locally-produced mustard oil to fetch premium prices."
+    },
+    {
+      "name": "Rice",
+      "botanical": "Oryza sativa L.",
+      "image": "Pictures/rice.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Rice Research",
+          "url": "https://www.icar-iirr.org/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Staple food grain; Basmati rice from Haryana is a major export commodity.",
+      "products": [
+        "Packaged Basmati rice",
+        "Non-Basmati rice",
+        "Puffed rice",
+        "Rice bran oil"
+      ],
+      "justification": "Strengthen the Basmati export value chain. Promote FPOs for production of high-quality, pure Basmati. Encourage investment in modern milling, sorting, and packaging infrastructure to meet international standards."
+    },
+    {
+      "name": "Rose",
+      "botanical": "Rosa spp.",
+      "image": "Pictures/rose.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Floricultural Research",
+          "url": "https://dfr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "High demand for cut flowers and for processing into rose water, gulkand, and essential oil.",
+      "products": [
+        "Cut flowers",
+        "Rose water",
+        "Gulkand",
+        "Essential oil (attar)"
+      ],
+      "justification": "Focus on value addition beyond fresh flowers. Promote cultivation of damask rose specifically for processing. Support FPO-led distillation units for producing rose water and oil, linking them to cosmetic and food industries."
+    },
+    {
+      "name": "Sesame / Til",
+      "botanical": "Sesamum indicum L.",
+      "image": "Pictures/sesame_til.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Oilseeds Research",
+          "url": "https://icar-iior.org.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Valued for its oil, and seeds are used in sweets and culinary preparations; has good export potential.",
+      "products": [
+        "Sesame oil",
+        "Hulled sesame seeds",
+        "Sweets (gajak, revdi)",
+        "Tahini paste"
+      ],
+      "justification": "Focus on processing for export and domestic markets. Support FPOs in setting up modern cleaning, grading, and hulling plants to produce export-quality hulled sesame seeds."
+    },
+    {
+      "name": "Sewan Grass",
+      "botanical": "Lasiurus scindicus Henrard",
+      "image": "Pictures/sewan_grass.jpg",
+      "sources": [
+        {
+          "name": "Central Arid Zone Research Institute",
+          "url": "https://cazri.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "'King of desert grasses,' crucial for livestock in the Thar desert due to its high protein content.",
+      "products": [
+        "Pasture development",
+        "Premium hay",
+        "Seeds for propagation"
+      ],
+      "justification": "The main challenge is conservation and propagation. Massively promote reseeding of degraded pastures and develop a robust seed production and supply chain to support the livestock economy of the Thar desert."
+    },
+    {
+      "name": "Sorghum / Jowar",
+      "botanical": "Sorghum bicolor",
+      "image": "Pictures/sorghum_jowar.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Millets Research",
+          "url": "https://millets.icar.gov.in/jowar.php"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Important crop for food (roti) and fodder in rainfed areas; gaining popularity as a health food.",
+      "products": [
+        "Flour",
+        "Fodder",
+        "Puffed snacks",
+        "Syrup (from sweet sorghum)",
+        "Ethanol"
+      ],
+      "justification": "Promote dual-purpose varieties for grain and fodder. Support FPOs to establish primary processing for flour and link them to health food companies. Explore sweet sorghum for syrup and ethanol production."
+    },
+    {
+      "name": "Sugarcane",
+      "botanical": "Saccharum officinarum L.",
+      "image": "Pictures/sugarcane.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Sugarcane Breeding Institute",
+          "url": "https://sugarcane.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "The primary source of sugar and jaggery; byproducts support ethanol and power generation.",
+      "products": [
+        "Sugar",
+        "Jaggery (gur)",
+        "Ethanol",
+        "Molasses",
+        "Bagasse for power"
+      ],
+      "justification": "The value chain is mature. Focus on improving recovery rates and byproduct utilization. Promote modernization of sugar mills and support small-scale, artisanal jaggery units to produce high-quality, branded gur."
+    },
+    {
+      "name": "Sunflower",
+      "botanical": "Helianthus annuus L.",
+      "image": "Pictures/sunflower.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Oilseeds Research",
+          "url": "https://icar-iior.org.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Source of premium edible oil; has a ready market with oil processing units.",
+      "products": [
+        "Edible oil",
+        "Oil cake",
+        "Confectionery seeds"
+      ],
+      "justification": "Backward: Promote cultivation of high-yield hybrid seeds. Forward: Strengthen contract farming between farmers and oil processing units to ensure stable supply and fair pricing. Explore the market for large, confectionery-grade seeds."
+    },
+    {
+      "name": "Tomato",
+      "botanical": "Solanum lycopersicum L.",
+      "image": "Pictures/tomato.jpg",
+      "sources": [
+        {
+          "name": "Indian Institute of Vegetable Research",
+          "url": "https://iivr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A key vegetable with massive demand for fresh consumption and processing into puree, ketchup, and sauce.",
+      "products": [
+        "Puree",
+        "Ketchup/Sauce",
+        "Canned tomatoes",
+        "Sun-dried tomatoes"
+      ],
+      "justification": "Address the issue of market gluts and price crashes through processing. Promote FPO-led establishment of puree and paste manufacturing units, leveraging government schemes like PMFME."
+    },
+    {
+      "name": "Tuberose",
+      "botanical": "Polianthes tuberosa L.",
+      "image": "Pictures/tuberose.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Directorate of Floricultural Research",
+          "url": "https://dfr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Integrated",
+      "strength": "Valued for its fragrant, long-lasting flower spikes in the cut flower market and for scent extraction.",
+      "products": [
+        "Cut flowers",
+        "Loose flowers",
+        "Essential oil for perfumery"
+      ],
+      "justification": "Backward: Promote cultivation of varieties with higher oil content. Forward: Develop linkages with the cut flower market and invest in solvent extraction units to produce high-value concrete and absolute for the fragrance industry."
+    },
+    {
+      "name": "Turmeric",
+      "botanical": "Curcuma longa L.",
+      "image": "Pictures/turmeric.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Spices Research",
+          "url": "https://spices.res.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Essential spice with strong culinary, medicinal, and cosmetic demand; a key export item.",
+      "products": [
+        "Turmeric powder",
+        "Dry polished fingers",
+        "Oleoresin",
+        "Curcumin extract"
+      ],
+      "justification": "Focus on high-value extracts. Promote cultivation of high-curcumin varieties like 'Prathibha'. Support investment in modern processing plants for polishing, powdering, and supercritical fluid extraction of curcumin."
+    },
+    {
+      "name": "Urd bean",
+      "botanical": "Vigna mungo",
+      "image": "Pictures/urd_bean.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Pulses Research",
+          "url": "https://iipr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A highly prized pulse, forms the base for many popular dishes (e.g., dal makhani).",
+      "products": [
+        "Split pulse (dal)",
+        "Whole bean",
+        "Flour for snacks"
+      ],
+      "justification": "Focus on quality-based marketing. Promote FPO-run mini-dal mills for de-hulling and splitting. Encourage branding and packaging to supply high-quality urd dal directly to retail and restaurant chains."
+    },
+    {
+      "name": "Wheat",
+      "botanical": "Triticum aestivum L.",
+      "image": "Pictures/wheat.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Wheat and Barley Research",
+          "url": "https://iiwbr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "The most important staple food grain in North India, forming the base of the region's food security.",
+      "products": [
+        "Flour (atta)",
+        "Semolina (suji)",
+        "Daliya (cracked wheat)",
+        "Biscuits",
+        "Bread"
+      ],
+      "justification": "While the MSP system is strong, promote local value addition. Support FPO-owned flour mills (chakki) to produce and market branded, whole-wheat atta, capturing a margin over selling raw grain."
+    },
+    {
+      "name": "Babul/Kikar",
+      "botanical": "Acacia nilotica",
+      "image": "Pictures/babul_kikar.jpg",
+      "sources": [
+        {
+          "name": "World Agroforestry Centre",
+          "url": "https://apps.worldagroforestry.org/treedb/AFDbases.php?name=Acacia%20nilotica"
+        }
+      ],
+      "states": [
+        "Delhi",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Backward",
+      "strength": "Abundant agroforestry tree; provides timber, gum, and tannin for local economies.",
+      "products": [
+        "Timber",
+        "Gum",
+        "Tannin from bark",
+        "Fuelwood",
+        "Fodder pods"
+      ],
+      "justification": "Organize systematic collection of gum and tannin through local cooperatives or FPOs to create a reliable supply chain and significantly improve rural earnings from this common resource."
+    },
+    {
+      "name": "Bael",
+      "botanical": "Aegle marmelos",
+      "image": "Pictures/bael.jpg",
+      "sources": [
+        {
+          "name": "Horticultural Science",
+          "url": "https://www.ikprress.org/index.php/JOHS/article/view/5549"
+        }
+      ],
+      "states": [
+        "Delhi",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Drought-hardy fruit with surging consumer demand for its various health benefits.",
+      "products": [
+        "Pulp for juice/squash",
+        "Candy (murabba)",
+        "Dehydrated powder",
+        "Ready-to-serve drinks"
+      ],
+      "justification": "Demand for processed Bael is high. The focus should be on promoting small-scale processing units for pulp extraction, candy making, and drying to capitalize on the wellness and health food market."
+    },
+    {
+      "name": "Bamboo",
+      "botanical": "Dendrocalamus strictus",
+      "image": "Pictures/bamboo.jpg",
+      "sources": [
+        {
+          "name": "National Bamboo Mission",
+          "url": "https://nbm.nic.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "Versatile 'green gold' with niche demand for specialty crafts and as a pulp/biomass source.",
+      "products": [
+        "Poles for construction",
+        "Furniture & Handicrafts",
+        "Pulp for paper",
+        "Bio-fuel/charcoal"
+      ],
+      "justification": "The primary constraint is limited local supply. Address this by aggressively promoting bamboo cultivation on wastelands and farm boundaries under the National Bamboo Mission to create a sustainable raw material base."
+    },
+    {
+      "name": "Bhabbar Grass",
+      "botanical": "Eulaliopsis binata",
+      "image": "Pictures/bhabbar_grass.jpg",
+      "sources": [
+        {
+          "name": "ENVIS Centre on Forestry",
+          "url": "http://www.frienvis.nic.in/Database/Bhabar-grass-Eulaliopsis-binata_2540.aspx"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Backward",
+      "strength": "Key raw material for local paper and rope-making industries in the Shivalik foothills.",
+      "products": [
+        "Rope (ban)",
+        "Pulp for paper industry",
+        "Thatching material"
+      ],
+      "justification": "Strengthen the supply chain by organizing local collectors into cooperatives. This ensures fair pricing and a consistent supply of raw material to specialty pulp and rope-making units, enhancing local incomes."
+    },
+    {
+      "name": "Chironji",
+      "botanical": "Buchanania lanzan",
+      "image": "Pictures/chironji.jpg",
+      "sources": [
+        {
+          "name": "Techno-Economic Research Institute",
+          "url": "https://www.teriin.org/project/development-and-promotion-chironji-buchanania-lanzan-based-livelihood-central-india"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Integrated",
+      "strength": "High-value, nutritious nut, often called 'poor man's almond,' with strong culinary demand.",
+      "products": [
+        "Shelled kernels",
+        "Confectionery additive",
+        "Seed oil"
+      ],
+      "justification": "Backward: Promote its conservation and plantation to ensure sustainability. Forward: Establish local, community-owned shelling and grading units to help collectors capture a higher value, shifting from selling raw fruit to graded kernels."
+    },
+    {
+      "name": "Custard Apple",
+      "botanical": "Annona squamosa",
+      "image": "Pictures/custard_apple.jpg",
+      "sources": [
+        {
+          "name": "National Horticulture Board",
+          "url": "https://nhb.gov.in/pdf/fruits/custard/cus001.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Hardy wasteland fruit with a perishable nature but high potential in the processed food industry.",
+      "products": [
+        "Frozen pulp",
+        "Ice cream & desserts",
+        "Juice & shakes",
+        "Jam"
+      ],
+      "justification": "The key is to overcome perishability. Invest in establishing FPO-led pulp extraction and freezing units close to collection areas. This allows for market expansion beyond local fresh fruit sales."
+    },
+    {
+      "name": "Giloy",
+      "botanical": "Tinospora cordifolia",
+      "image": "Pictures/giloy.jpg",
+      "sources": [
+        {
+          "name": "National Medicinal Plants Board",
+          "url": "https://www.nmpb.nic.in/sites/default/files/Tinospora-cordifolia.pdf"
+        }
+      ],
+      "states": [
+        "Delhi",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Backward",
+      "strength": "High-demand immunity booster, with farm-gate prices sustained by the herbal wellness industry.",
+      "products": [
+        "Dried stems",
+        "Powder",
+        "Standardized extracts",
+        "Juice"
+      ],
+      "justification": "Bridge the supply gap by promoting commercial cultivation on a large scale. This ensures a consistent, traceable, and quality-controlled supply of raw material to the pharmaceutical and nutraceutical industries."
+    },
+    {
+      "name": "Jamun",
+      "botanical": "Syzygium cumini",
+      "image": "Pictures/jamun.jpg",
+      "sources": [
+        {
+          "name": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/312547671_The_Jamun_A_potential_fruit_for_value_addition"
+        }
+      ],
+      "states": [
+        "Delhi",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Popular seasonal fruit with growing markets for its processed products due to health benefits (e.g., anti-diabetic).",
+      "products": [
+        "Juice & squash",
+        "Vinegar",
+        "Seed powder (for medicinal use)",
+        "Jelly"
+      ],
+      "justification": "Focus on value addition for the highly perishable fruit. Promote local units for juice, vinegar, and seed powder production, which have a longer shelf life and cater to the health-conscious market."
+    },
+    {
+      "name": "Karonda",
+      "botanical": "Carissa spinarum",
+      "image": "Pictures/karonda.jpg",
+      "sources": [
+        {
+          "name": "Acta Scientific Agriculture",
+          "url": "https://actascientific.com/ASAG/pdf/ASAG-04-0994.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Backward",
+      "strength": "Hardy, drought-resistant shrub with a ready market for its fruit in the pickle and candy industry.",
+      "products": [
+        "Pickles",
+        "Candy (murabba)",
+        "Jelly & jam",
+        "Chutney"
+      ],
+      "justification": "The main constraint is inconsistent supply from the wild. Promote its cultivation as a live hedge on farm boundaries, which multiplies the supply of raw material for the well-established processing market."
+    },
+    {
+      "name": "Kattha (Khair)",
+      "botanical": "Acacia catechu",
+      "image": "Pictures/kattha_khair.jpg",
+      "sources": [
+        {
+          "name": "Forest Research Institute",
+          "url": "http://www.frienvis.nic.in/Database/Katha-and-Cutch-from-Khair-Tree-Acacia-catechu_2492.aspx"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Integrated",
+      "strength": "Source of traditional Kattha/Cutch, a key ingredient in pan and for industrial dyes.",
+      "products": [
+        "Kattha (for pan)",
+        "Cutch (for dyeing/tanning)",
+        "Timber"
+      ],
+      "justification": "Backward: Promote plantations to ensure a sustainable supply of heartwood. Forward: Support modernization of traditional extraction units to improve efficiency and yield, thereby increasing profitability for producers."
+    },
+    {
+      "name": "Lasora",
+      "botanical": "Cordia dichotoma",
+      "image": "Pictures/lasora.jpg",
+      "sources": [
+        {
+          "name": "Journal of Pharmacognosy and Phytochemistry",
+          "url": "https://www.phytojournal.com/archives/2018/vol7issue3/PartBE/7-3-469-425.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "A popular fruit for making 'gunda' pickle, with an established domestic market.",
+      "products": [
+        "Pickles",
+        "Dehydrated fruit",
+        "Vegetable preparations"
+      ],
+      "justification": "The market is established but unorganized. Focus on improving processing standards and branding. Supporting FPOs to create well-packaged, branded 'gunda' pickle can significantly lift profit margins."
+    },
+    {
+      "name": "Palash",
+      "botanical": "Butea monosperma",
+      "image": "Pictures/palash.jpg",
+      "sources": [
+        {
+          "name": "International Journal of Ayurveda and Pharma Research",
+          "url": "https://ijapr.in/index.php/ijapr/article/view/555"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Forward",
+      "strength": "The 'Flame of the Forest' offers multi-season revenue from its flowers, leaves, and gum.",
+      "products": [
+        "Herbal/eco-friendly dyes (from flowers)",
+        "Disposable leaf plates (pattal)",
+        "Gum (Butea gum)"
+      ],
+      "justification": "Promote the creation of local enterprises around its diverse products. Support SHGs in making eco-friendly Holi colors from flowers and setting up leaf-plate making machines to tap into seasonal and recurring demand."
+    },
+    {
+      "name": "Peelu/Miswak",
+      "botanical": "Salvadora persica",
+      "image": "Pictures/peelu_miswak.jpg",
+      "sources": [
+        {
+          "name": "Pharmacognosy Reviews",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545237/"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Forward",
+      "strength": "Abundant desert shrub known globally as a natural toothbrush (miswak) with a niche market.",
+      "products": [
+        "Packaged miswak sticks",
+        "Herbal toothpaste ingredient",
+        "Fruit squash",
+        "Seed oil"
+      ],
+      "justification": "Monetize this abundant resource by moving from informal collection to organized processing. Promote enterprises for cleaning, vacuum-packing, and branding miswak sticks for urban and export markets."
+    },
+    {
+      "name": "Pigeon Pea / Arhar",
+      "botanical": "Cajanus cajan",
+      "image": "Pictures/pigeon_pea_arhar.jpg",
+      "sources": [
+        {
+          "name": "ICAR-Indian Institute of Pulses Research",
+          "url": "https://iipr.icar.gov.in/"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Delhi",
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "One of India's most important pulses (tur dal), forming a critical part of the daily diet.",
+      "products": [
+        "Split pulse (tur dal)",
+        "Packaged whole peas",
+        "Flour"
+      ],
+      "justification": "Focus on local value addition. Promote and finance FPO-owned mini dal mills to allow farmers to sell processed dal instead of raw grain, capturing a significant part of the value chain."
+    },
+    {
+      "name": "Rohida",
+      "botanical": "Tecomella undulata",
+      "image": "Pictures/rohida.jpg",
+      "sources": [
+        {
+          "name": "Central Arid Zone Research Institute",
+          "url": "https://cazri.icar.gov.in/tecomella-undulata-the-desert-teak-a-review/"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Backward",
+      "strength": "High-value 'Desert Teak' or 'Marwar Teak,' prized for its durable and ornamental wood.",
+      "products": [
+        "Timber for furniture",
+        "Carved handicrafts",
+        "Musical instruments"
+      ],
+      "justification": "Over-exploitation has depleted the natural resource. The absolute priority is to promote large-scale plantation on farmlands and wastelands to create a future, sustainable supply for the high-end furniture and craft industry."
+    },
+    {
+      "name": "Safed Musli",
+      "botanical": "Chlorophytum tuberosum",
+      "image": "Pictures/safed_musli.jpg",
+      "sources": [
+        {
+          "name": "National Medicinal Plants Board",
+          "url": "https://www.nmpb.nic.in/sites/default/files/Chlorophytum-borivilianum.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Backward",
+      "strength": "High-demand aphrodisiac and health tonic, often called 'white gold,' with huge unmet pharma demand.",
+      "products": [
+        "Dried tubers/roots",
+        "Powder",
+        "Herbal supplement extracts"
+      ],
+      "justification": "Address the massive supply deficit by scaling up cultivation. Provide subsidies, quality planting material, and technical guidance to farmers to tap into the lucrative market for this high-value medicinal crop."
+    },
+    {
+      "name": "Sal (leaf)",
+      "botanical": "Shorea robusta",
+      "image": "Pictures/sal_leaf.jpg",
+      "sources": [
+        {
+          "name": "ENVIS Centre on Forestry",
+          "url": "http://www.frienvis.nic.in/Database/Sal_2485.aspx"
+        }
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Forward",
+      "strength": "Source of traditional leaf-plates and seed butter (sal butter) in forested areas.",
+      "products": [
+        "Disposable leaf plates (dona/pattal)",
+        "Sal butter (for confectionery)"
+      ],
+      "justification": "The resource base is limited due to conservation status. The opportunity lies in improving the efficiency of collection and processing by SHGs, such as using moulding machines for plates, to maximize income."
+    },
+    {
+      "name": "Semal",
+      "botanical": "Bombax ceiba",
+      "image": "Pictures/semal.jpg",
+      "sources": [
+        {
+          "name": "World Agroforestry Centre",
+          "url": "https://apps.worldagroforestry.org/treedb/AFDbases.php?name=Bombax%20ceiba"
+        }
+      ],
+      "states": [
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "Agro-Forestry & Fiber",
+      "linkage": "Forward",
+      "strength": "Produces natural, organic cotton floss (kapok) ideal for the eco-bedding and craft niche.",
+      "products": [
+        "Pillow & mattress stuffing (kapok)",
+        "Life-jackets filling",
+        "Craft material"
+      ],
+      "justification": "Tap into the niche market for natural, hypoallergenic fibers. Organize collection of the fruit floss and promote its use in eco-friendly bedding and craft products, creating value from a widely available tree."
+    },
+    {
+      "name": "Shatavari",
+      "botanical": "Asparagus racemosus",
+      "image": "Pictures/shatavari.jpg",
+      "sources": [
+        {
+          "name": "AYUSH",
+          "url": "https://www.ayush.gov.in/docs/satavari.pdf"
+        }
+      ],
+      "states": [
+        "Rajasthan",
+        "Haryana",
+        "Delhi"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Medicinal & Aromatic Plants",
+      "linkage": "Backward",
+      "strength": "A premier women's health tonic in Ayurveda with a rapidly growing market.",
+      "products": [
+        "Dried roots",
+        "Powder",
+        "Granules",
+        "Extracts for capsules"
+      ],
+      "justification": "Current supply is dangerously dependent on wild harvesting. The focus must be on scaling up commercial cultivation to replace risky wild collection and provide a steady, quality supply to the herbal industry."
+    },
+    {
+      "name": "Tendu",
+      "botanical": "Diospyros melanoxylon",
+      "image": "Pictures/tendu.jpg",
+      "sources": [
+        {
+          "name": "ENVIS Centre on Forestry",
+          "url": "http://www.frienvis.nic.in/Database/Tendu-Diospyros-melanoxylon_2548.aspx"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Backward",
+      "strength": "The 'green gold' of tribal areas, as its leaves are the primary wrapper for bidi cigarettes.",
+      "products": [
+        "Bidi wrappers (leaves)",
+        "Edible fruit"
+      ],
+      "justification": "The bidi industry provides an established market. The intervention should focus on organizing collector cooperatives to improve their bargaining power, ensure fair, transparent pricing, and reduce exploitation by middlemen."
+    },
+    {
+      "name": "Vilayati Babul",
+      "botanical": "Prosopis juliflora",
+      "image": "Pictures/vilayati_babul.jpg",
+      "sources": [
+        {
+          "name": "Central Arid Zone Research Institute",
+          "url": "https://cazri.icar.gov.in/index.php/technologies/english/20-prosopis-juliflora"
+        }
+      ],
+      "states": [
+        "Delhi",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "primaryCategory": "NTFP",
+      "category": "NTFPs for Livelihood",
+      "linkage": "Forward",
+      "strength": "An invasive but extremely abundant woody biomass source, ideal for fuel production.",
+      "products": [
+        "Charcoal briquettes",
+        "Biomass for power plants",
+        "Fuelwood"
+      ],
+      "justification": "Turn an ecological negative into an economic positive. Promote enterprises that harvest this invasive species for producing charcoal and biomass briquettes, which helps manage its spread while creating local energy and employment."
+    },
+    {
+      "name": "Wood Apple",
+      "botanical": "Feronia limonia",
+      "image": "Pictures/wood_apple.jpg",
+      "sources": [
+        {
+          "name": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/265082103_Health_Promoting_and_Therapeutic_Potential_of_Wood_Apple"
+        }
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "primaryCategory": "Agro-Commodity",
+      "category": "Horticultural & Industrial Crops",
+      "linkage": "Forward",
+      "strength": "Unique-flavored fruit with potential in the niche health food market for chutneys and squashes.",
+      "products": [
+        "Pulp for chutney/jam",
+        "Squash & RTS beverages",
+        "Powder"
+      ],
+      "justification": "Focus on developing the market for this underutilized fruit. Support small processing units in creating and test-marketing unique value-added products like wood apple chutney, squash, and bars to tap into niche consumer segments."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "For Entrepreneurs & Farmer Producer Organizations (FPOs)",
+      "content": "<ul class=\"list-disc list-inside space-y-2 text-slate-600\"><li><strong>Adopt a Cluster-Based Focus:</strong> Concentrate on one or two high-potential commodities in your region to build expertise and scale, aligning with the \"One District One Product\" (ODOP) strategy.</li><li><strong>Prioritize Backward Linkage Development:</strong> Secure your raw material base first. Work with farmers on Good Agricultural Practices (GAPs), quality planting material, and efficient aggregation before investing heavily in processing.</li><li><strong>Systematically Leverage Government Support:</strong> Actively pursue schemes like PMFME for subsidies, NMPB for medicinal plant support, and SFAC for equity grants to strengthen your financial position.</li></ul>"
+    },
+    {
+      "title": "For Policymakers (State & Central)",
+      "content": "<ul class=\"list-disc list-inside space-y-2 text-slate-600\"><li><strong>Strengthen the FPO Ecosystem Beyond Formation:</strong> Shift focus from formation targets to ensuring long-term viability through sustained handholding, business planning support, and performance-based grading, following the RACP model.</li><li><strong>Incentivize Targeted Infrastructure Development:</strong> Use policies like the Rajasthan Agro-Processing Policy to channel investment into specific gaps, such as cold chains, modern spice parks, and by-product valorization facilities.</li><li><strong>Champion Geographical Indications (GI) and Branding:</strong> Facilitate the process of securing GI tags for unique regional products like Nagauri Paan Methi to build brand equity and enhance export value.</li></ul>"
+    },
+    {
+      "title": "For Investors",
+      "content": "<ul class=\"list-disc list-inside space-y-2 text-slate-600\"><li><strong>Identify High-Growth Investment Sectors:</strong> Focus on high-potential areas like standardized medicinal extracts, branded seed spices, and export-oriented arid horticulture (Pomegranate, Date Palm).</li><li><strong>De-risk Investments through Backward Integration:</strong> Invest in models that include contract farming, FPO partnerships, or nucleus farms to mitigate the primary risk of raw material volatility.</li><li><strong>Explore Opportunities in By-product Valorization:</strong> Consider high-return investments in technologies that create wealth from agricultural waste, such as Kinnow pomace or mustard oil cake, fostering a circular economy.</li></ul>"
+    }
+  ]
+}

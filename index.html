@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NTFP & Agro-Commodity Strategy Dashboard | Rajasthan, Haryana & Delhi</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-treemap@2.3.0/dist/chartjs-chart-treemap.min.js"></script>
+    
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body class="bg-[#FFF6ED] text-slate-800">
+
+    <header class="bg-white shadow-md sticky top-0 z-40">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <a href="https://www.giz.de/de/downloads/giz2023-en-factsheet-RECAP4NDC.pdf" target="_blank" rel="noopener noreferrer">
+                    <img src="../Logos/recap-logo.png" alt="Recap Logo" class="h-10">
+                </a>
+                <h1 class="text-xl md:text-2xl font-bold text-slate-900">NTFP / Agri-Value Chain Dashboard</h1>
+            </div>
+            <div class="flex items-center gap-3">
+                <span class="text-sm font-medium text-slate-500 hidden md:block"><strong>Landscape - </strong> Rajasthan, Haryana & Delhi</span>
+                <a href="https://www.teriin.org/" target="_blank" rel="noopener noreferrer">
+                    <img src="images/teri-logo.png" alt="Company Logo" class="h-7">
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto p-4 md:p-8">
+
+        <section id="summary" class="mb-12">
+ 
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold text-blue-900 mb-2">Strategic Agribusiness Opportunities</h2>
+                <p class="max-w-3xl mx-auto text-slate-600">
+                    An interactive analysis of high-potential Non-Timber Forest Products (NTFPs) and Agro-Commodities. This dashboard highlights the primary bottleneck in their value chains and provides a strategic outlook for stakeholders.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+                <div class="bg-white p-6 rounded-xl shadow-lg border border-slate-100 flex flex-col justify-center h-full">
+                    <h3 class="font-bold text-lg mb-4 text-center text-slate-700">Core Challenge: Linkage Priority</h3>
+                    <p class="text-sm text-center text-slate-500 mb-4">Focus is needed both on supply-side (Backward) and demand-side (Forward) activities.</p>
+                    <div class="chart-container relative h-56 w-full max-w-md mx-auto mb-6">
+                        <canvas id="linkageChart"></canvas>
+                    </div>
+                    <div class="p-3 bg-blue-50 rounded-lg text-center mb-2">
+                        <p id="speciesCount" class="text-4xl font-bold text-blue-800">0</p>
+                        <p class="text-sm font-medium text-slate-600 mt-1">High-Potential Species</p>
+                    </div>
+                    <div class="grid grid-cols-3 gap-3 text-center">
+                        <div class="p-2 bg-red-50 rounded-lg">
+                            <p id="backwardLinkagePercent" class="text-xl font-bold text-red-800">0%</p>
+                            <p class="text-[10px] uppercase font-semibold text-slate-600 tracking-wider">Backward</p>
+                        </div>
+                        <div class="p-2 bg-green-50 rounded-lg">
+                            <p id="forwardLinkagePercent" class="text-xl font-bold text-green-800">0%</p>
+                            <p class="text-[10px] uppercase font-semibold text-slate-600 tracking-wider">Forward</p>
+                        </div>
+                        <div class="p-2 bg-blue-50 rounded-lg">
+                            <p id="integratedLinkagePercent" class="text-xl font-bold text-blue-800">0%</p>
+                            <p class="text-[10px] uppercase font-semibold text-slate-600 tracking-wider">Integrated</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg border border-slate-100 flex flex-col justify-center h-full">
+                    <h3 class="font-bold text-lg mb-4 text-center text-slate-700">Dominant Product Categories</h3>
+                    <p class="text-sm text-center text-slate-500 mb-4">Shows which product types are most common across all species.</p>
+                    <div class="chart-container relative h-56 w-full mx-auto">
+                        <canvas id="categoryPieChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg border border-slate-100 flex flex-col justify-center h-full">
+                    <h3 class="font-bold text-lg mb-4 text-center text-slate-700">State-wise Species Distribution</h3>
+                    <p class="text-sm text-center text-slate-500 mb-4">Total opportunities identified in each state. Note: Species can be present in multiple states.</p>
+                    <div class="chart-container relative h-56 w-full max-w-2xl mx-auto">
+                        <canvas id="stateChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="explorer" class="bg-white p-6 md:p-8 rounded-xl shadow-lg border border-slate-100">
+            <div class="text-center mb-8">
+                <h2 class="text-2xl font-bold text-blue-900 mb-2">Interactive Commodity Explorer</h2>
+                <p class="max-w-3xl mx-auto text-slate-600">
+                    Use the filters below to explore the high-potential species. Click on any card to view a detailed analysis.
+                </p>
+            </div>
+            
+            <div id="filters" class="flex flex-wrap justify-center items-center gap-4 md:gap-6 mb-8">
+                <div class="checkbox-filter-container">
+                     <button id="categoryFilterButton" class="font-semibold p-2 rounded-md border border-slate-300 bg-white shadow-sm flex items-center gap-2">
+                        <span>Category</span>
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                     </button>
+                    <div id="categoryFilterDropdown" class="checkbox-filter-dropdown p-4 bg-white rounded-lg shadow-xl border border-slate-200">
+                        </div>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="font-semibold">Linkage:</span>
+                    <div id="linkageFilterGroup" class="inline-flex rounded-md" role="group">
+                        <button type="button" data-value="all" class="filter-button active-filter px-3 py-1.5 text-sm font-medium rounded-l-lg">All</button>
+                         <button type="button" data-value="Backward" class="filter-button inactive-filter px-3 py-1.5 text-sm font-medium">Backward</button>
+                        <button type="button" data-value="Forward" class="filter-button inactive-filter px-3 py-1.5 text-sm font-medium">Forward</button>
+                        <button type="button" data-value="Integrated" class="filter-button inactive-filter px-3 py-1.5 text-sm font-medium rounded-r-lg">Integrated</button>
+                     </div>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="font-semibold">State:</span>
+                    <div id="stateFilterGroup" class="inline-flex rounded-md" role="group">
+                         <button type="button" data-value="all" class="filter-button active-filter px-3 py-1.5 text-sm font-medium rounded-l-lg">All</button>
+                        <button type="button" data-value="Rajasthan" class="filter-button inactive-filter px-3 py-1.5 text-sm font-medium">Rajasthan</button>
+                        <button type="button" data-value="Haryana" class="filter-button inactive-filter px-3 py-1.5 text-sm font-medium">Haryana</button>
+                         <button type="button" data-value="Delhi" class="filter-button inactive-filter px-3 py-1.5 text-sm font-medium rounded-r-lg">Delhi</button>
+                    </div>
+                </div>
+            </div>
+            <p id="resultsCount" class="text-right text-sm font-semibold text-slate-600 mb-6 pr-4"></p>
+            <div id="speciesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+             </div>
+        </section>
+
+        <section id="recommendations" class="mt-12">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold text-blue-900 mb-2">Strategic Recommendations for Stakeholders</h2>
+                <p class="max-w-3xl mx-auto text-slate-600">
+                     The report outlines specific strategies for key actors to unlock the value-addition potential. Click on a stakeholder group to view the tailored recommendations.
+                 </p>
+            </div>
+            <div id="accordion" class="space-y-4 max-w-4xl mx-auto">
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-white mt-12 py-6 border-t">
+        <div class="container mx-auto text-center text-slate-500 text-sm">
+            <p>© 2025 Value Chain Explorer. Prepared by TERI.</p>
+        </div>
+    </footer>
+
+    <div id="modal" class="fixed inset-0 bg-black bg-opacity-50 z-50 hidden items-center justify-center p-4 modal-bg">
+        <div class="bg-white rounded-xl shadow-2xl w-full max-w-3xl max-h-[90vh] overflow-y-auto modal-content transform scale-95">
+            <div class="sticky top-0 bg-white p-4 border-b flex justify-between items-center z-10">
+                <h3 id="modalTitle" class="text-xl font-bold text-blue-900"></h3>
+                 <button id="closeModal" class="text-slate-500 hover:text-slate-800 text-2xl font-bold">×</button>
+            </div>
+            <div id="modalBody" class="p-6">
+            </div>
+        </div>
+    </div>
+
+    <script src="js/data.js" defer></script>
+
+    <template id="species-card-template">
+        <div class="card bg-white rounded-lg shadow border border-slate-100 flex flex-col cursor-pointer overflow-hidden" tabindex="0">
+            <div class="relative">
+                <img src="" alt="" class="w-full h-32 object-cover image">
+                <span title="" class="linkage-icon absolute top-2 right-2 text-xl rounded-full w-8 h-8 flex items-center justify-center flex-shrink-0 shadow-md"></span>
+            </div>
+            <div class="p-4 flex flex-col flex-grow">
+                <div class="flex-grow">
+                    <h4 class="font-bold text-lg text-slate-800 mb-1 species-name"></h4>
+                    <p class="text-xs text-slate-400 italic mb-2 botanical-name"></p>
+                    <p class="text-sm text-slate-600 mb-3 line-clamp-2 strength"></p>
+                </div>
+                <div>
+                    <div class="mb-3">
+                        <span class="linkage-tag text-xs font-medium px-2 py-1 rounded-full"></span>
+                        <span class="category-tag text-xs font-medium bg-slate-100 text-slate-700 px-2 py-1 rounded-full ml-1"></span>
+                    </div>
+                    <div class="state-tags flex flex-wrap gap-1"></div>
+                </div>
+            </div>
+        </div>
+    </template>
+    
+    <script src="js/script.js" defer></script>
+
+</body>
+</html>
